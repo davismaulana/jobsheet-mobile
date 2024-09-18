@@ -1,7 +1,7 @@
 void main(){
   int counter = 0;
-  do (
+  do {
     print(counter);
     counter++;
-  ) while (counter < 77);
+   } while (counter < 77);
 }
